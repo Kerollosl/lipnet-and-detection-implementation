@@ -59,8 +59,8 @@ model = YOLO(weights_path)
 print("Model successfully loaded")
 
 # TRAIN AND VALIDATE MODEL ON MANUALLY LABELED DATASET
-# results = model.train(data="./manual_dataset/manual_data.yaml",epochs=3)
-# results = model.val()  # evaluate model performance on the validation set
+results = model.train(data="./manual_dataset/manual_data.yaml",epochs=3)
+results = model.val()  # evaluate model performance on the validation set
 
 
 #################################PREDICTION##########################################################
