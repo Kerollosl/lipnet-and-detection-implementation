@@ -1,0 +1,6 @@
+train: C:\Users\Kerollos\PycharmProjects\SHOW TO TRISTAR\Mouth Detection\object_detection\manual_dataset\Human_Photos_Labeled
+val: C:\Users\Kerollos\PycharmProjects\SHOW TO TRISTAR\Mouth Detection\object_detection\manual_dataset\Human_Photos_Labeled
+#test: ../test/images
+
+nc: 1
+names: ['Mouth']
