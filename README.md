@@ -1,11 +1,6 @@
 # LipNet Lipreading Object Detection and video decoding model implementation
 
-## Kerollos Lowandy
-
-**Repository: lipnet-and-detection-implementation**
-
-## GitHub Link
-[https://github.com/Kerollosl/lipnet-and-detection-implementation](https://github.com/Kerollosl/lipnet-and-detection-implementation)
+A LipNet lipreading model paired with a YOLOv8 mouth detector. The YOLO model locates and crops the mouth in each video frame; LipNet then decodes the cropped sequence into spoken words.
 
 ### Based on the following publication
 [https://arxiv.org/pdf/1611.01599](https://arxiv.org/pdf/1611.01599)
