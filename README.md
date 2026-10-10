@@ -40,3 +40,7 @@ A LipNet lipreading model paired with a YOLOv8 mouth detector. The YOLO model lo
 - `/runs/detect/train6/weights/best.pt` - The current highest performing mouth detection model weights file from previous trainings. This model is used as part of the Lipnet model data preprocessing pipeline.
 - `test_video` - A sample video to test both the mouth detection model and the Lipnet model. 
 - `/manual_dataset/` - A dataset containing over 7,000 images of people with a variety of different mouth positions. About 100 of these images have been labeled and placed in the `/Human_Photos_Labeled/` subdirectory. The rest remain in the `/Humans/` subdirectory. For further model training and performance increase, more of the unlabeled images can be labeled using labelImg and transferred to the `/Human_Photos_Labeled/` directory. 
+
+## Cleanup behavior and validation limits
+
+Research-only lip-reading experiment. Every batch is processed; mouth crops retain one timestep per frame, selecting the highest-confidence detection and repeating the previous crop when absent. Generic unrelated detector fallback is rejected. CTC labels use nonpadding lengths. Independent held-out-speaker CER/WER and full training remain required. Set ROBOFLOW_API_KEY externally and revoke prior credentials.

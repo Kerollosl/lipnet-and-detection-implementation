@@ -1,0 +1,1367 @@
+{
+  "version": 1,
+  "source_commit": "9adb0d237c68c9417e2d8f38ae4fc9e8e0337ced",
+  "artifacts": [
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0eeaf6e3794d03192dab5fc2229935cd57dd4644",
+      "size": 1422,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/0eeaf6e3794d03192dab5fc2229935cd57dd4644"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_10.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45f8675344682de11f55234532e3f0aca765b665",
+      "size": 1448,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/45f8675344682de11f55234532e3f0aca765b665"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_11.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bc23f6052dd24603b0180fe7e735d81b10c4d81",
+      "size": 1497,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/0bc23f6052dd24603b0180fe7e735d81b10c4d81"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_12.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c38e9c52f5de014f8cc7382da0de18571744c51c",
+      "size": 1513,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c38e9c52f5de014f8cc7382da0de18571744c51c"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_13.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f50699266be38b1319bdf74e94fbfd69a708746a",
+      "size": 1485,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f50699266be38b1319bdf74e94fbfd69a708746a"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_14.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "567ecac4aa550c659ef5f5da15b54c13adf7be2a",
+      "size": 1509,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/567ecac4aa550c659ef5f5da15b54c13adf7be2a"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_15.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06504353d1af1c0c9607874412d3b093ca01986c",
+      "size": 1427,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/06504353d1af1c0c9607874412d3b093ca01986c"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_16.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cb62214b0233a62f2f771bafd36689bbc107751",
+      "size": 1546,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3cb62214b0233a62f2f771bafd36689bbc107751"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_17.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4e5ef26265776457050199ca94b3eccca618a17",
+      "size": 1573,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f4e5ef26265776457050199ca94b3eccca618a17"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_18.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c9ce4b80ac546f3f230e2164a0b3cd34fd01f70",
+      "size": 1569,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/4c9ce4b80ac546f3f230e2164a0b3cd34fd01f70"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_19.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d45b9090e0916e52cbf6bc1d5b10732722c2ec0",
+      "size": 1643,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/5d45b9090e0916e52cbf6bc1d5b10732722c2ec0"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0830bd6d1eea35fdd296974bc14267c4b07c2c5",
+      "size": 1321,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e0830bd6d1eea35fdd296974bc14267c4b07c2c5"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_20.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad038cc2762143b2f409fe6053212b3bc365319f",
+      "size": 1698,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/ad038cc2762143b2f409fe6053212b3bc365319f"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_21.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e2d22d4ae855c3921cdca086d4a19afde1b82a6",
+      "size": 1671,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/7e2d22d4ae855c3921cdca086d4a19afde1b82a6"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_22.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20915fdb6f8fd6eba53ae6d39d2501d506125f11",
+      "size": 1511,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/20915fdb6f8fd6eba53ae6d39d2501d506125f11"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_23.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39c4f258369cbe2667ac0b0a8b683187a911d717",
+      "size": 1482,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/39c4f258369cbe2667ac0b0a8b683187a911d717"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_24.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d60809d3ae4c1703154ac9027c60c4922544efe",
+      "size": 1492,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8d60809d3ae4c1703154ac9027c60c4922544efe"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_25.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4af414cd080a9de2612eab099a56de905d7d0b6",
+      "size": 1431,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a4af414cd080a9de2612eab099a56de905d7d0b6"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_26.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ec9d5082af8fe13e3e184e6d72e09bab1a6fd08",
+      "size": 1634,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/4ec9d5082af8fe13e3e184e6d72e09bab1a6fd08"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_27.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b8b4f85efbe14313b178e03617a090e4f9b3422",
+      "size": 1648,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8b8b4f85efbe14313b178e03617a090e4f9b3422"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_28.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77ba1c20e0f085c967f319f5b15efa772b0252b7",
+      "size": 1452,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/77ba1c20e0f085c967f319f5b15efa772b0252b7"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_29.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ee3b394f5311011ac876710f09c0b1ba7034a21",
+      "size": 1450,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2ee3b394f5311011ac876710f09c0b1ba7034a21"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_3.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12eaf51e554a5c08e65cdedc5a7050ff940a7d61",
+      "size": 1445,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/12eaf51e554a5c08e65cdedc5a7050ff940a7d61"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_30.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e0ea8e8b9eec0e3651a39f2478e6fae5dcdcd8f",
+      "size": 1473,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/0e0ea8e8b9eec0e3651a39f2478e6fae5dcdcd8f"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_31.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ceebbefe1568cdd9f2f163e1e652f89709baea8",
+      "size": 1488,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/1ceebbefe1568cdd9f2f163e1e652f89709baea8"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_32.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bca9d4444bc5a55d723dd64b809bf3fe9ec2016f",
+      "size": 1494,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/bca9d4444bc5a55d723dd64b809bf3fe9ec2016f"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_33.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "96118fbb728f5105529da64f87a31496279f7ab7",
+      "size": 1530,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/96118fbb728f5105529da64f87a31496279f7ab7"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_34.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb143dda607ec76022a7f0ecb8a398596b3001d8",
+      "size": 1612,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/eb143dda607ec76022a7f0ecb8a398596b3001d8"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_35.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "845c8157d3cd7d16b49d39ed000bc2e212458411",
+      "size": 1460,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/845c8157d3cd7d16b49d39ed000bc2e212458411"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_36.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1691125371d851d657ed1a85091f3130a7cdde07",
+      "size": 1650,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/1691125371d851d657ed1a85091f3130a7cdde07"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_37.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "731d10d834c2026c7c96459ce1622aec1d4da753",
+      "size": 1755,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/731d10d834c2026c7c96459ce1622aec1d4da753"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_38.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d609139d06b44fd7f3d4ca6f1e4ebdde88e00d47",
+      "size": 1749,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/d609139d06b44fd7f3d4ca6f1e4ebdde88e00d47"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_39.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85ed7691089b4e35bf6160a410df95e18e7f15c7",
+      "size": 1521,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/85ed7691089b4e35bf6160a410df95e18e7f15c7"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_4.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3da7f95378bb904593f0f27f847eb8bb909c19fc",
+      "size": 1457,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3da7f95378bb904593f0f27f847eb8bb909c19fc"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_40.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3013b09efb7cb44802b6e9f1998b985cc03a762b",
+      "size": 1502,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3013b09efb7cb44802b6e9f1998b985cc03a762b"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_41.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb7ebbccdf7b4705e1e01cadd94c3d20d6624532",
+      "size": 1497,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/fb7ebbccdf7b4705e1e01cadd94c3d20d6624532"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_42.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e42fd6e6ad180a9bc9dfb1f0fe054add20a2702",
+      "size": 1514,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3e42fd6e6ad180a9bc9dfb1f0fe054add20a2702"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_43.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a3bba852523692fffe894243122761f60d29627",
+      "size": 1511,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/6a3bba852523692fffe894243122761f60d29627"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_44.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a4c0e86ca32a9a8661ab5a16d5d5363116da0e8",
+      "size": 1627,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/0a4c0e86ca32a9a8661ab5a16d5d5363116da0e8"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_45.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "602809a1cb22c9e57a9168795dedea2cef5d9295",
+      "size": 1617,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/602809a1cb22c9e57a9168795dedea2cef5d9295"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_46.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d28c1977370f8a518edc526bc48ac8667029b4b",
+      "size": 1582,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/9d28c1977370f8a518edc526bc48ac8667029b4b"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_47.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69741fae267518b198c988328411ec71246e9a24",
+      "size": 1417,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/69741fae267518b198c988328411ec71246e9a24"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_48.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "754e0290f9a7833ee6a7a01e4792a85b10747368",
+      "size": 1612,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/754e0290f9a7833ee6a7a01e4792a85b10747368"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_49.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8138c4a1c2678fe6cc2544effa1591879b0ce0c0",
+      "size": 1657,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8138c4a1c2678fe6cc2544effa1591879b0ce0c0"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_5.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7998e9d19bcd9f8511aa5dd0455e785f2d37fd8a",
+      "size": 1470,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/7998e9d19bcd9f8511aa5dd0455e785f2d37fd8a"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_50.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8280f959b6accbfb2602de957422d29fb2bb629f",
+      "size": 1790,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8280f959b6accbfb2602de957422d29fb2bb629f"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_51.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47bd39f70af199f58f02dacb994053553a9ac539",
+      "size": 1800,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/47bd39f70af199f58f02dacb994053553a9ac539"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_52.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1058d19e55a87e3b397a52fc8aa1f12f1a5a810d",
+      "size": 1728,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/1058d19e55a87e3b397a52fc8aa1f12f1a5a810d"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_53.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf94d304d2c82ca60fc886580755e2c8a101c484",
+      "size": 1546,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/cf94d304d2c82ca60fc886580755e2c8a101c484"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_54.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5f999c172948e6363564db60acd11247f1173e2",
+      "size": 1514,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f5f999c172948e6363564db60acd11247f1173e2"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_55.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe4446a536306d8c6870a87c4b74f536f4077666",
+      "size": 1491,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/fe4446a536306d8c6870a87c4b74f536f4077666"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_56.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78a0dd692223ab68dc4c97f249c14391ab63f690",
+      "size": 1476,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/78a0dd692223ab68dc4c97f249c14391ab63f690"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_57.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a06859b332e53e4792a2f016a239ca0243ed9ba6",
+      "size": 1484,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a06859b332e53e4792a2f016a239ca0243ed9ba6"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_58.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34850f7a1014666e1f13c00609cc70eb0a307bb1",
+      "size": 1475,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/34850f7a1014666e1f13c00609cc70eb0a307bb1"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_59.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fff71cdc10d815b5e689308b07e4165419844749",
+      "size": 1500,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/fff71cdc10d815b5e689308b07e4165419844749"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_6.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa8f87876ee18f7feb30305bd7596fa6d78bb768",
+      "size": 1452,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/aa8f87876ee18f7feb30305bd7596fa6d78bb768"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_60.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd590eda43d4fe61507dacb734ec48a2add73ec3",
+      "size": 1505,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/dd590eda43d4fe61507dacb734ec48a2add73ec3"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_61.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9827d3eb8079f90346af2cefd0a3f7400a7bc0ab",
+      "size": 1455,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/9827d3eb8079f90346af2cefd0a3f7400a7bc0ab"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_62.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06382458f09fc960b0528c68f8af03e1f246e9a6",
+      "size": 1416,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/06382458f09fc960b0528c68f8af03e1f246e9a6"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_63.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45bd172418edca51235c15a3e43bc9fcc34daa2f",
+      "size": 1444,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/45bd172418edca51235c15a3e43bc9fcc34daa2f"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_64.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "912d4178ec011635225e1877d15b15434157b919",
+      "size": 1456,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/912d4178ec011635225e1877d15b15434157b919"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_65.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c835b7472a2773e59bb1e0522e3b28bba48febc0",
+      "size": 1438,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c835b7472a2773e59bb1e0522e3b28bba48febc0"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_66.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd9254f8678fe403181d1a24024c750dc4f060f2",
+      "size": 1462,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/dd9254f8678fe403181d1a24024c750dc4f060f2"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_67.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ddc015e569484abb32980366cc3210905f483f0",
+      "size": 1457,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8ddc015e569484abb32980366cc3210905f483f0"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_68.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af179d749c8e77cd3f3c3ffae0694b727bbbe45d",
+      "size": 1464,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/af179d749c8e77cd3f3c3ffae0694b727bbbe45d"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_69.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04c0e978783faeb4b009e04f2863255f408d9ea6",
+      "size": 1460,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/04c0e978783faeb4b009e04f2863255f408d9ea6"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_7.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "22f5f1ec3853b72ed2b215ad74e49d230f11c7e8",
+      "size": 1454,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/22f5f1ec3853b72ed2b215ad74e49d230f11c7e8"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_70.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0f9231a2ec75defa605a07208da9c5710dd70cc",
+      "size": 1480,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e0f9231a2ec75defa605a07208da9c5710dd70cc"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_71.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "791dba7ca4a15fe3e28e8c40d698ee40d6ece227",
+      "size": 1478,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/791dba7ca4a15fe3e28e8c40d698ee40d6ece227"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_72.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "537968b539226844988262dbc6ec401d47331805",
+      "size": 1481,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/537968b539226844988262dbc6ec401d47331805"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_73.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe07ce734b52cdcf91e7fca0ec4e9845c4328f82",
+      "size": 1428,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/fe07ce734b52cdcf91e7fca0ec4e9845c4328f82"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_74.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76a40176b7188185295e0779a6d67dcf234e3323",
+      "size": 1441,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/76a40176b7188185295e0779a6d67dcf234e3323"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_75.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51e424cb8fdb5c5e1a39de79c565ed78804e0fe0",
+      "size": 1479,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/51e424cb8fdb5c5e1a39de79c565ed78804e0fe0"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_8.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abacac796a7a539c60269738124fdcfdda30eed1",
+      "size": 1448,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/abacac796a7a539c60269738124fdcfdda30eed1"
+    },
+    {
+      "path": "runs/detect/predict/crops/Mouth/bbaf2n_9.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd74f1b5e21c5dd418cf15cc50e95ca02d820ec9",
+      "size": 1469,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/dd74f1b5e21c5dd418cf15cc50e95ca02d820ec9"
+    },
+    {
+      "path": "runs/detect/train/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7b3228cde9680bddef84cbbe4206455bfc5fcea",
+      "size": 1583,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/d7b3228cde9680bddef84cbbe4206455bfc5fcea"
+    },
+    {
+      "path": "runs/detect/train2/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0e782acba955c9e22cb09cc2391e6d77b25e60a",
+      "size": 1585,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/b0e782acba955c9e22cb09cc2391e6d77b25e60a"
+    },
+    {
+      "path": "runs/detect/train3/F1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aace9753da8e5a9bdd2d7339570d066ccae8bc4a",
+      "size": 89247,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/aace9753da8e5a9bdd2d7339570d066ccae8bc4a"
+    },
+    {
+      "path": "runs/detect/train3/PR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41626f2cfb2f1d2b81e6dcb69301d46902c72f86",
+      "size": 75037,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/41626f2cfb2f1d2b81e6dcb69301d46902c72f86"
+    },
+    {
+      "path": "runs/detect/train3/P_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7d066c863b017e2c60fa42908f8cbe16a46d49",
+      "size": 80577,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2b7d066c863b017e2c60fa42908f8cbe16a46d49"
+    },
+    {
+      "path": "runs/detect/train3/R_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb1b25a544595fc0745071c4badda8d981f77c9",
+      "size": 86530,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3bb1b25a544595fc0745071c4badda8d981f77c9"
+    },
+    {
+      "path": "runs/detect/train3/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a1d5f0de2cd27da32875b93b5aa01a1717ed8aa",
+      "size": 1585,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/1a1d5f0de2cd27da32875b93b5aa01a1717ed8aa"
+    },
+    {
+      "path": "runs/detect/train3/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58c6335b2a3e08d286d6c9463beec1503751b2a8",
+      "size": 82755,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/58c6335b2a3e08d286d6c9463beec1503751b2a8"
+    },
+    {
+      "path": "runs/detect/train3/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4432bbdbda40375bf4352173be3d660448091e3e",
+      "size": 81653,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/4432bbdbda40375bf4352173be3d660448091e3e"
+    },
+    {
+      "path": "runs/detect/train3/events.out.tfevents.1722369144.Kero-Desktop.13840.0",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "153923c434256054694c8f0ba1c5258612842441",
+      "size": 187780,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/153923c434256054694c8f0ba1c5258612842441"
+    },
+    {
+      "path": "runs/detect/train3/labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e01bbd8f419dff83fd2d753b13cd847dc3165c96",
+      "size": 143659,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e01bbd8f419dff83fd2d753b13cd847dc3165c96"
+    },
+    {
+      "path": "runs/detect/train3/labels_correlogram.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c45750c7bf605502df7bdb1e870ca62ea9f5935",
+      "size": 232053,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/5c45750c7bf605502df7bdb1e870ca62ea9f5935"
+    },
+    {
+      "path": "runs/detect/train3/results.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc21dfae74524244cbeb177e94deb48c74e28156",
+      "size": 1344,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/bc21dfae74524244cbeb177e94deb48c74e28156"
+    },
+    {
+      "path": "runs/detect/train3/results.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13b270343a28b4d1e582fa282944b44744cfde18",
+      "size": 266126,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/13b270343a28b4d1e582fa282944b44744cfde18"
+    },
+    {
+      "path": "runs/detect/train3/train_batch0.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0e1203f45c3018bd1e5c8e419ddd22ae4540c89",
+      "size": 399158,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c0e1203f45c3018bd1e5c8e419ddd22ae4540c89"
+    },
+    {
+      "path": "runs/detect/train3/train_batch1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60a7e13f8ec70350f8ed8c36db6ff37ceaf61575",
+      "size": 394481,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/60a7e13f8ec70350f8ed8c36db6ff37ceaf61575"
+    },
+    {
+      "path": "runs/detect/train3/train_batch2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b00ec25fa17655c4b44afb0749ad95deea7b97e",
+      "size": 395875,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3b00ec25fa17655c4b44afb0749ad95deea7b97e"
+    },
+    {
+      "path": "runs/detect/train3/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fc5089837ba324814449670e156a8540de4a5d8",
+      "size": 431352,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/6fc5089837ba324814449670e156a8540de4a5d8"
+    },
+    {
+      "path": "runs/detect/train3/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75a7598c1fbc905bb3ccc1d5e7f5c3cf86f25848",
+      "size": 446150,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/75a7598c1fbc905bb3ccc1d5e7f5c3cf86f25848"
+    },
+    {
+      "path": "runs/detect/train3/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3efe5ed956830d7a8d2b80c62badd06a1061c9b",
+      "size": 426179,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c3efe5ed956830d7a8d2b80c62badd06a1061c9b"
+    },
+    {
+      "path": "runs/detect/train3/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deb805167f4932427d4f657fbcbfdd100b2d4319",
+      "size": 441273,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/deb805167f4932427d4f657fbcbfdd100b2d4319"
+    },
+    {
+      "path": "runs/detect/train3/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6b8c2082321d749be87613f655169cd1d864887",
+      "size": 413335,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a6b8c2082321d749be87613f655169cd1d864887"
+    },
+    {
+      "path": "runs/detect/train3/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "345bb386371caa199a63c8c95bc590ac667c593b",
+      "size": 429105,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/345bb386371caa199a63c8c95bc590ac667c593b"
+    },
+    {
+      "path": "runs/detect/train3/weights/best.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "977dfdd38c679d294a343452581d510126549cab",
+      "size": 6244771,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/977dfdd38c679d294a343452581d510126549cab"
+    },
+    {
+      "path": "runs/detect/train3/weights/last.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6fa2140e80497beaad8319b3ef9204371ba4091",
+      "size": 6244771,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a6fa2140e80497beaad8319b3ef9204371ba4091"
+    },
+    {
+      "path": "runs/detect/train32/F1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aace9753da8e5a9bdd2d7339570d066ccae8bc4a",
+      "size": 89247,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/aace9753da8e5a9bdd2d7339570d066ccae8bc4a"
+    },
+    {
+      "path": "runs/detect/train32/PR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41626f2cfb2f1d2b81e6dcb69301d46902c72f86",
+      "size": 75037,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/41626f2cfb2f1d2b81e6dcb69301d46902c72f86"
+    },
+    {
+      "path": "runs/detect/train32/P_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7d066c863b017e2c60fa42908f8cbe16a46d49",
+      "size": 80577,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2b7d066c863b017e2c60fa42908f8cbe16a46d49"
+    },
+    {
+      "path": "runs/detect/train32/R_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb1b25a544595fc0745071c4badda8d981f77c9",
+      "size": 86530,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3bb1b25a544595fc0745071c4badda8d981f77c9"
+    },
+    {
+      "path": "runs/detect/train32/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58c6335b2a3e08d286d6c9463beec1503751b2a8",
+      "size": 82755,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/58c6335b2a3e08d286d6c9463beec1503751b2a8"
+    },
+    {
+      "path": "runs/detect/train32/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4432bbdbda40375bf4352173be3d660448091e3e",
+      "size": 81653,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/4432bbdbda40375bf4352173be3d660448091e3e"
+    },
+    {
+      "path": "runs/detect/train32/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fc5089837ba324814449670e156a8540de4a5d8",
+      "size": 431352,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/6fc5089837ba324814449670e156a8540de4a5d8"
+    },
+    {
+      "path": "runs/detect/train32/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75a7598c1fbc905bb3ccc1d5e7f5c3cf86f25848",
+      "size": 446150,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/75a7598c1fbc905bb3ccc1d5e7f5c3cf86f25848"
+    },
+    {
+      "path": "runs/detect/train32/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea04e317d8c293d614a8b00e41ab6d1efe457582",
+      "size": 423958,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/ea04e317d8c293d614a8b00e41ab6d1efe457582"
+    },
+    {
+      "path": "runs/detect/train32/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7bcea7aa900a953b11a530af9d3da8940b59519",
+      "size": 440146,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e7bcea7aa900a953b11a530af9d3da8940b59519"
+    },
+    {
+      "path": "runs/detect/train32/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3efe5ed956830d7a8d2b80c62badd06a1061c9b",
+      "size": 426179,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c3efe5ed956830d7a8d2b80c62badd06a1061c9b"
+    },
+    {
+      "path": "runs/detect/train32/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deb805167f4932427d4f657fbcbfdd100b2d4319",
+      "size": 441273,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/deb805167f4932427d4f657fbcbfdd100b2d4319"
+    },
+    {
+      "path": "runs/detect/train4/F1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20c13d771144b9f9bfc1b4af893c87702663af55",
+      "size": 108148,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/20c13d771144b9f9bfc1b4af893c87702663af55"
+    },
+    {
+      "path": "runs/detect/train4/PR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f03a7b11ee801f35459c38554120bb17071955ef",
+      "size": 79660,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f03a7b11ee801f35459c38554120bb17071955ef"
+    },
+    {
+      "path": "runs/detect/train4/P_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97a387448700a1496b74d24d06ea6f37582d15ba",
+      "size": 94682,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/97a387448700a1496b74d24d06ea6f37582d15ba"
+    },
+    {
+      "path": "runs/detect/train4/R_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cc99f5e0f0004a28c7767e6fddc89611c7fcade",
+      "size": 95861,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/3cc99f5e0f0004a28c7767e6fddc89611c7fcade"
+    },
+    {
+      "path": "runs/detect/train4/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cc0b964f713b02e9142d32c5d1a11cac85c28df",
+      "size": 1674,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/4cc0b964f713b02e9142d32c5d1a11cac85c28df"
+    },
+    {
+      "path": "runs/detect/train4/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e70d73ff78a20d32d174acb5c3d3b7e77f57d680",
+      "size": 78118,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e70d73ff78a20d32d174acb5c3d3b7e77f57d680"
+    },
+    {
+      "path": "runs/detect/train4/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8a7a5c0ca89465927518c22a7243265424d75f",
+      "size": 85747,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/8f8a7a5c0ca89465927518c22a7243265424d75f"
+    },
+    {
+      "path": "runs/detect/train4/events.out.tfevents.1722390762.Kero-Desktop.16048.0",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5848318596e00c0f8815c9486900170975c9897",
+      "size": 187780,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/b5848318596e00c0f8815c9486900170975c9897"
+    },
+    {
+      "path": "runs/detect/train4/labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "485e79113cc63d59af367b6ae318f0a26b7fb9bd",
+      "size": 99275,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/485e79113cc63d59af367b6ae318f0a26b7fb9bd"
+    },
+    {
+      "path": "runs/detect/train4/labels_correlogram.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ceac4034ee5e13d5bff95c48be255b2cc30e4c75",
+      "size": 198887,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/ceac4034ee5e13d5bff95c48be255b2cc30e4c75"
+    },
+    {
+      "path": "runs/detect/train4/results.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aed0c1a116c7f7182c493021ec5dcf4de907fe7a",
+      "size": 1344,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/aed0c1a116c7f7182c493021ec5dcf4de907fe7a"
+    },
+    {
+      "path": "runs/detect/train4/results.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "396db9a355a8d584c2afcb7163e345356b45f104",
+      "size": 272745,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/396db9a355a8d584c2afcb7163e345356b45f104"
+    },
+    {
+      "path": "runs/detect/train4/train_batch0.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7affb4a2ee15b7efbb4757b8cb2fa5dcab4756bb",
+      "size": 497534,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/7affb4a2ee15b7efbb4757b8cb2fa5dcab4756bb"
+    },
+    {
+      "path": "runs/detect/train4/train_batch1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "859332bf30178833cf2a29feb56f19581e473278",
+      "size": 475002,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/859332bf30178833cf2a29feb56f19581e473278"
+    },
+    {
+      "path": "runs/detect/train4/train_batch2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "569b65db052225601ede2fbcf642eb863baa1a1c",
+      "size": 490050,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/569b65db052225601ede2fbcf642eb863baa1a1c"
+    },
+    {
+      "path": "runs/detect/train4/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e592058366172179e32a7cfe63e45574ee3ddbc5",
+      "size": 435189,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e592058366172179e32a7cfe63e45574ee3ddbc5"
+    },
+    {
+      "path": "runs/detect/train4/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14e969fbd437fce7ee032ec35f43ed51fccf86bb",
+      "size": 450281,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/14e969fbd437fce7ee032ec35f43ed51fccf86bb"
+    },
+    {
+      "path": "runs/detect/train4/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "378e74a41f4a29ef66d15e0d62ea03faca137af9",
+      "size": 399127,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/378e74a41f4a29ef66d15e0d62ea03faca137af9"
+    },
+    {
+      "path": "runs/detect/train4/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2276d450e3383d72eb14b2ca8ee34d1a3277c2ef",
+      "size": 408920,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2276d450e3383d72eb14b2ca8ee34d1a3277c2ef"
+    },
+    {
+      "path": "runs/detect/train4/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a137c7091e4289c7332270452293322b9245d2d",
+      "size": 341737,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2a137c7091e4289c7332270452293322b9245d2d"
+    },
+    {
+      "path": "runs/detect/train4/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "939b87bbdbf2c15eec94004731d896416be5e164",
+      "size": 355046,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/939b87bbdbf2c15eec94004731d896416be5e164"
+    },
+    {
+      "path": "runs/detect/train4/weights/best.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebdfdd0dd649190e2e4419e2106808502db0df9f",
+      "size": 6223715,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/ebdfdd0dd649190e2e4419e2106808502db0df9f"
+    },
+    {
+      "path": "runs/detect/train4/weights/last.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41c4a178c649b051eac0908acc7e8c0fc82c33f7",
+      "size": 6223715,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/41c4a178c649b051eac0908acc7e8c0fc82c33f7"
+    },
+    {
+      "path": "runs/detect/train5/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39c6ebfe07eafcdf8c91e7595eea1ac307e0c5c2",
+      "size": 1574,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/39c6ebfe07eafcdf8c91e7595eea1ac307e0c5c2"
+    },
+    {
+      "path": "runs/detect/train6/F1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5a2a5a8d4bb99f4aa2a4cdcec7fbad93b349899",
+      "size": 94768,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c5a2a5a8d4bb99f4aa2a4cdcec7fbad93b349899"
+    },
+    {
+      "path": "runs/detect/train6/PR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47a8697043b01dba58b16c57005dbc9f8545bc2e",
+      "size": 79567,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/47a8697043b01dba58b16c57005dbc9f8545bc2e"
+    },
+    {
+      "path": "runs/detect/train6/P_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "546366dedd3c9161c2bd072423d250de97b1423f",
+      "size": 84808,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/546366dedd3c9161c2bd072423d250de97b1423f"
+    },
+    {
+      "path": "runs/detect/train6/R_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b41c271768cf03e20e5d1b454a9a6835f5643314",
+      "size": 91878,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/b41c271768cf03e20e5d1b454a9a6835f5643314"
+    },
+    {
+      "path": "runs/detect/train6/args.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84b24c3d8074697945307723fec7330262371eaf",
+      "size": 1574,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/84b24c3d8074697945307723fec7330262371eaf"
+    },
+    {
+      "path": "runs/detect/train6/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "276253533a7855fae92226b5e83d1144ace6c431",
+      "size": 80902,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/276253533a7855fae92226b5e83d1144ace6c431"
+    },
+    {
+      "path": "runs/detect/train6/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26631a39e5332a7cf839b17a757573fb7b5dfc91",
+      "size": 83616,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/26631a39e5332a7cf839b17a757573fb7b5dfc91"
+    },
+    {
+      "path": "runs/detect/train6/labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "509857a5bd119183daf140c6d2dc1e8b9b66f421",
+      "size": 104225,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/509857a5bd119183daf140c6d2dc1e8b9b66f421"
+    },
+    {
+      "path": "runs/detect/train6/labels_correlogram.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b53e6bebf33c97533ae143e2271ad522d9ed908",
+      "size": 203271,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/5b53e6bebf33c97533ae143e2271ad522d9ed908"
+    },
+    {
+      "path": "runs/detect/train6/results.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "121721560ade6ae8f0fedfa5487f0ea7867f781e",
+      "size": 1344,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/121721560ade6ae8f0fedfa5487f0ea7867f781e"
+    },
+    {
+      "path": "runs/detect/train6/results.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b5743e9f58ddb53449e4cd43d9bd9049c88f5ec",
+      "size": 283893,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/7b5743e9f58ddb53449e4cd43d9bd9049c88f5ec"
+    },
+    {
+      "path": "runs/detect/train6/train_batch0.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afddd036a5a7fd04ac795cc83e2db66dcf940866",
+      "size": 449138,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/afddd036a5a7fd04ac795cc83e2db66dcf940866"
+    },
+    {
+      "path": "runs/detect/train6/train_batch1.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "304e38ac534d1f5776adf05bf23dace0efdd0d0c",
+      "size": 437425,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/304e38ac534d1f5776adf05bf23dace0efdd0d0c"
+    },
+    {
+      "path": "runs/detect/train6/train_batch2.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2b96c755351ced61421a551e3ab3a8b54d290f4",
+      "size": 512964,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/c2b96c755351ced61421a551e3ab3a8b54d290f4"
+    },
+    {
+      "path": "runs/detect/train6/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4c380d089eeb1b35902c71bdeda14b8843dca5d",
+      "size": 416256,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e4c380d089eeb1b35902c71bdeda14b8843dca5d"
+    },
+    {
+      "path": "runs/detect/train6/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72d27911fcc9941f8741fa95b804c61967909ffa",
+      "size": 425034,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/72d27911fcc9941f8741fa95b804c61967909ffa"
+    },
+    {
+      "path": "runs/detect/train6/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a33feddc6384ecaf1923a0da32817f2d464bf5a4",
+      "size": 462607,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a33feddc6384ecaf1923a0da32817f2d464bf5a4"
+    },
+    {
+      "path": "runs/detect/train6/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6070b87b2ff4332e4e7e5fdc2e390271dd089d7",
+      "size": 467992,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f6070b87b2ff4332e4e7e5fdc2e390271dd089d7"
+    },
+    {
+      "path": "runs/detect/train6/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2116ff29ef301436616a665c1f07ff52796d6709",
+      "size": 410314,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/2116ff29ef301436616a665c1f07ff52796d6709"
+    },
+    {
+      "path": "runs/detect/train6/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12610ee3c4062c2c2f5dfe2c699f19fb9031af07",
+      "size": 417860,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/12610ee3c4062c2c2f5dfe2c699f19fb9031af07"
+    },
+    {
+      "path": "runs/detect/train6/weights/best.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09b3245c6e2a3c90665dd368a8b646b6d4f87a14",
+      "size": 6222819,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/09b3245c6e2a3c90665dd368a8b646b6d4f87a14"
+    },
+    {
+      "path": "runs/detect/train6/weights/last.pt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "597f21b79158565d97fa519e2d502c58ee6c8b4f",
+      "size": 6222947,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/597f21b79158565d97fa519e2d502c58ee6c8b4f"
+    },
+    {
+      "path": "runs/detect/train62/F1_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0d186c4a381522993c1813a7a6d2ef5757e5d84",
+      "size": 95383,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a0d186c4a381522993c1813a7a6d2ef5757e5d84"
+    },
+    {
+      "path": "runs/detect/train62/PR_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcb3b9086520899531baf2a0f3f5513a313b423b",
+      "size": 79597,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/bcb3b9086520899531baf2a0f3f5513a313b423b"
+    },
+    {
+      "path": "runs/detect/train62/P_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a24bb15e2c95b274fb32da4a35eba84879817ae0",
+      "size": 84772,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a24bb15e2c95b274fb32da4a35eba84879817ae0"
+    },
+    {
+      "path": "runs/detect/train62/R_curve.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fbcfe4ad9a701415f5b33d976c22a74fecdba52a",
+      "size": 92397,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/fbcfe4ad9a701415f5b33d976c22a74fecdba52a"
+    },
+    {
+      "path": "runs/detect/train62/confusion_matrix.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "276253533a7855fae92226b5e83d1144ace6c431",
+      "size": 80902,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/276253533a7855fae92226b5e83d1144ace6c431"
+    },
+    {
+      "path": "runs/detect/train62/confusion_matrix_normalized.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26631a39e5332a7cf839b17a757573fb7b5dfc91",
+      "size": 83616,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/26631a39e5332a7cf839b17a757573fb7b5dfc91"
+    },
+    {
+      "path": "runs/detect/train62/val_batch0_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4c380d089eeb1b35902c71bdeda14b8843dca5d",
+      "size": 416256,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/e4c380d089eeb1b35902c71bdeda14b8843dca5d"
+    },
+    {
+      "path": "runs/detect/train62/val_batch0_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72d27911fcc9941f8741fa95b804c61967909ffa",
+      "size": 425034,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/72d27911fcc9941f8741fa95b804c61967909ffa"
+    },
+    {
+      "path": "runs/detect/train62/val_batch1_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d131f2d30b85c0d34c00a7a709437bd2822cbf4",
+      "size": 505828,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/6d131f2d30b85c0d34c00a7a709437bd2822cbf4"
+    },
+    {
+      "path": "runs/detect/train62/val_batch1_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bac251017d59cae022a9212fe33ff6a88c772ce2",
+      "size": 515373,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/bac251017d59cae022a9212fe33ff6a88c772ce2"
+    },
+    {
+      "path": "runs/detect/train62/val_batch2_labels.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a33feddc6384ecaf1923a0da32817f2d464bf5a4",
+      "size": 462607,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/a33feddc6384ecaf1923a0da32817f2d464bf5a4"
+    },
+    {
+      "path": "runs/detect/train62/val_batch2_pred.jpg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6070b87b2ff4332e4e7e5fdc2e390271dd089d7",
+      "size": 467992,
+      "url": "https://api.github.com/repos/Kerollosl/lipnet-and-detection-implementation/git/blobs/f6070b87b2ff4332e4e7e5fdc2e390271dd089d7"
+    }
+  ],
+  "status": "Historical artifacts retained. Training/evaluation and redistribution rights are not independently verified."
+}
